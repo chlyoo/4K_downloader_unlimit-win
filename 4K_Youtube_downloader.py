@@ -1,13 +1,11 @@
 from winreg import *
 import time
 import os
-import subprocess
 
 
 # [HKEY_CURRENT_USER\SOFTWARE\4kdownload.com\4K Video Downloader\Limits]
 # "dayDownloadDate"=hex(b):d2,72,dd,5f,00,00,00,00
 # "dayDownloadCount"=dword:00000000
-
 
 os.system("mode con: lines=2 cols=40")
 
