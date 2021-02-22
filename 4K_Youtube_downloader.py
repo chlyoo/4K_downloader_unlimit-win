@@ -1,3 +1,8 @@
+"""
+author : Clazitive Developer
+contact : changhyunlyoo@gmail.com
+lastmodified: : 2021.02.23
+"""
 from winreg import *
 import time
 import os
